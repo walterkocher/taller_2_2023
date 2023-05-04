@@ -33,7 +33,13 @@ public class Cafeteria {
 		throw new UnsupportedOperationException();
 	}
 
-	public Cafeteria(String nombre, String direccion, ArrayList<String> redesSociales) {
-		throw new UnsupportedOperationException();
+	public Cafeteria(String nombre, String direccion, ArrayList<String> redesSociales, ArrayList<Cafe> cafes) {
+		this.nombre = nombre;
+		this.direccion = direccion;
+		this.redesSociales = redesSociales;
+		this.cafes = cafes;
 	}
+
+
+
 }

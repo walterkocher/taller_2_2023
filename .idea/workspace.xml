@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8dc6eae-c289-40b4-9ac6-ece2290bed3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="e8dc6eae-c289-40b4-9ac6-ece2290bed3b" name="Changes" comment="SECOND COMMIT">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taller_2_2023.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/CafeteriaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/CafeteriaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/GestorDeDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/GestorDeDatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Cafeteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Cafeteria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +51,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683205895198</updated>
-      <workItem from="1683205897109" duration="773000" />
+      <workItem from="1683205897109" duration="4067000" />
     </task>
+    <task id="LOCAL-00001" summary="SECOND COMMIT">
+      <created>1683206947484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683206947484</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SECOND COMMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="SECOND COMMIT" />
   </component>
 </project>
