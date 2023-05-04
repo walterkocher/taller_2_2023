@@ -1,12 +1,18 @@
 package pricipal;
 
-public class main {
+import controller.CafeteriaController;
+import view.*;
 
-	public void main(String[] args) {
-		throw new UnsupportedOperationException();
+public class main {
+	public static void main(String[] args) {
+		inicializar();
 	}
 
-	public void inicializar() {
-		throw new UnsupportedOperationException();
+
+	public static void inicializar() {
+		CafeteriaController cafeteriaController= new CafeteriaController();
+		VentanaMenu ventanaMenu= new VentanaMenu("talle2",800,800);
+
+
 	}
 }
