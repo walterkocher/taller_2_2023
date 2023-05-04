@@ -1,7 +1,15 @@
 package model;
 
 public class Cafe {
-	private Tamano tamano;
+	private static Tamano tamano;
 	private Ingredientes ingredientes;
-	private Tamano tamaño;
+
+	public Cafe(Tamano tamano, Ingredientes ingredientes) {
+		this.tamano = tamano;
+		this.ingredientes = ingredientes;
+	}
+
+	public static Tamano getTamano() {
+		return tamano;
+	}
 }
